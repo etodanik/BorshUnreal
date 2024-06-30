@@ -10,9 +10,9 @@ This plugin is written as part of a suite of modules to enable Solana blockchain
 
 The following types are addded on top of the `std` types covered by the upstream library:
 
-- [x] USTRUCT (included nesting)
+- [x] USTRUCT (including nested struct support)
 - [x] FString
-- [ ] TArray
+- [x] TArray of any supported type
 - [ ] ... more will be added
 
 ## Caveats
